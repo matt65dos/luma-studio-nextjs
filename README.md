@@ -1,3 +1,6 @@
+Build and Deploy an AI SaaS with Next.js 16 - Full Course for Free
+https://www.youtube.com/watch?v=7CPHXZN92Iw
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
