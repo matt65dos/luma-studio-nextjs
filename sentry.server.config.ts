@@ -23,4 +23,6 @@ Sentry.init({
     cookies: { deny: ["forwarded", "-ip", "remote-", "via", "-user"] },
     urlQueryParams: { deny: ["forwarded", "-ip", "remote-", "via", "-user"] },
   },
+
+  integrations: [Sentry.vercelAIIntegration()],
 });
